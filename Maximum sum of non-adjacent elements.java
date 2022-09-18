@@ -1,9 +1,9 @@
 You are given an array/list of ‘N’ integers. 
 You are supposed to return the maximum sum of the subsequence with the constraint that no two elements are adjacent in the given array/list.
   
-https://www.codingninjas.com/codestudio/problems/frog-jump_3621012?source=youtube&campaign=striver_dp_videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_dp_videos&leftPanelTab=0
+https://www.codingninjas.com/codestudio/problems/maximum-sum-of-non-adjacent-elements_843261
 
-https://www.youtube.com/watch?v=GrMBfJNk_NY&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=6
+https://www.youtube.com/watch?v=GrMBfJNk_NY&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY&index=7
 
 //BF
 //TC: O(2^N)
